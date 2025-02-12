@@ -1,11 +1,4 @@
-# SwitchMapExample
----
 
-### **2. Bash (Terminal) ile `README.md` Yazma**
-Eğer terminal veya komut satırı kullanıyorsan, aşağıdaki komutu çalıştırarak `README.md` dosyanı oluşturabilirsin:
-
-```sh
-cat > README.md <<EOL
 # SwitchMapExample
 
 Bu proje, Android uygulamalarında \`Switch\` bileşenleri ile çalışmayı göstermektedir. 
