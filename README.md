@@ -10,23 +10,6 @@ Uygulama, konum servislerini açma/kapama işlemlerini ve belirli ayarların gö
 - **Dinamik Görünürlük**: \`Switch\` butonlarının durumu değiştikçe ilgili bileşenlerin görünürlüğü de değişir.
 - **Toast Mesajları**: Kullanıcının seçimlerine bağlı olarak ekran bildirimleri (\`Toast\`) gösterilir.
 
-## 📂 Proje Yapısı
-
-
-SwitchMapExample/
-│── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/switchmapexample/
-│   │   │   │   ├── MainActivity.java
-│   │   │   ├── res/
-│   │   │   │   ├── layout/activity_main.xml
-│   │   │   │   ├── values/strings.xml
-│   ├── AndroidManifest.xml
-│   ├── build.gradle
-│── README.md
-
-
 ## 🚀 Kurulum ve Çalıştırma
 
 1. **Projeyi Klonlayın**:
