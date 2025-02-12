@@ -27,9 +27,7 @@ Uygulama, konum servislerini açma/kapama işlemlerini ve belirli ayarların gö
 ## 📸 Ekran Görüntüsü
 
 Eğer isterseniz buraya ekran görüntüsü ekleyebilirsiniz:
-\`\`\`
 ![switchmapexample](https://github.com/user-attachments/assets/ee36dc36-ee72-4501-8ce0-64b675119bf9)
-\`\`\`
 
 ## 🛠 Kullanılan Teknolojiler
 
