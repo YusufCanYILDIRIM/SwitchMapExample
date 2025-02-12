@@ -12,7 +12,7 @@ Uygulama, konum servislerini açma/kapama işlemlerini ve belirli ayarların gö
 
 ## 📂 Proje Yapısı
 
-\`\`\`
+
 SwitchMapExample/
 │── app/
 │   ├── src/
@@ -25,7 +25,7 @@ SwitchMapExample/
 │   ├── AndroidManifest.xml
 │   ├── build.gradle
 │── README.md
-\`\`\`
+
 
 ## 🚀 Kurulum ve Çalıştırma
 
